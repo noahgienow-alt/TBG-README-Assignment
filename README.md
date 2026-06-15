@@ -12,7 +12,7 @@ The game runs on version 4.1.7 of Thonny. (https://thonny.org/) to install Thonn
 
 It involves the player making decisions while being hunted down by a mysterious creature.
 The player has to use logic and clues to escape the forest alive.
-There are a variety of branching paths and different endings depending on what decisiona the player makes.
+There are a variety of branching paths and different endings depending on what decision the player makes.
 
 ## Run the Program
 
