@@ -1,4 +1,4 @@
-#RPG Continuous Game Play - Noah Gienow
+#Escape the Forest - Noah Gienow
 #June 17, 2026
 
 #This program is a playable text based game with various responses based on the user input
